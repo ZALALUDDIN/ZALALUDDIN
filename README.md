@@ -1,6 +1,6 @@
 
 <h3 align="center">Hey there 👋, I'm ZALAL UDDIN MASUM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-<br>#### Web Developer
+<br><h2 align="center">Web Developer<h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=biplabuddin99&label=Profile%20views&color=0e75b6&style=flat" alt="MASUM" />
 </p>
