@@ -1,31 +1,122 @@
-<!--  ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-## Hi there 👋,I'm ZALAL UDDIN MASUM
-#### Web Developer
+<h3 align="center">Hey there 👋, I'm ZALAL UDDIN MASUM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<br>#### Web Developer
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=biplabuddin99&label=Profile%20views&color=0e75b6&style=flat" alt="MASUM" />
+</p>
 
-I work for Frontend with HTML, CSS (SASS & SCSS), Javascript(jQuery, react Js, json) and back-end: PHP, Laravel, MySql, Node js, express Js on my linux operating system.
 
-Skills: REACT / JS / HTML / CSS / Laravel / CodeIgniter / LINUX
+### 📖 About me
 
-- 🌱 I’m currently learning JavaScript / PHP / Laravel / REACT
+I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL, HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, CODEIGNITER, Wordpress with LINUX and Other Tech Stack. I have a decade (1+ Yrs) experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.
+
+- 🌱 I’m currently learning Javascritp / PHP / Laravel / REACT
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Linux and web development 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZALALUDDIN&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZALALUDDIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ### 🕵🏻‍♂️ Conect with me
+ 
+  <p align="center">
+ <a href="https://www.facebook.com/masum.zalaluddin/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="30" height="30"/>
+ <a href="https://www.linkedin.com/in/zalal-uddin-masum/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
+ <a href="https://twitter.com/ShahzalalMasum" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30" height="30"/>
+<a href="https://github.com/ZALALUDDIN" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="30" height="30"/>
+  <a href="https://www.instagram.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="30" height="30"/>
+   <a href="https://www.masumz.netlify.app/)"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="30" height='30'>]  
+  </p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZALALUDDIN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zalal-uddin-masum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/masum.zalal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://masumz.netlify.app/)  
+  ### 👨🏻‍💻 Languages and Tools:
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+            <a href="#html5">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="Html5" />
+            </a>
+            <br>Html5
+        </td>   
+        <td align="center" width="96">
+            <a href="#css3">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+            </a>
+            <br>CSS3
+        </td>
+        <td align="center" width="96">
+        <a href="#bootstrap">
+            <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        </a>
+        <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+        <a href="#js">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        </a>
+        <br>Javascript
+        </td>     
+  </tr>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+  <tr>
+        <td align="center" width="96">
+        <a href="#nuxtjs" >
+            <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        </a>
+        <br>PHP
+        </td>
+        <td align="center" width="96">
+        <a href="#laravel">
+            <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>Laravel
+        </td>
+        <td align="center" width="96">
+        <a href="#laravel">
+            <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>MySQL
+        </td>
+        <td align="center" width="96">
+        <a href="#CodeIgniter">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/CodeIgniterLogo.png" width="48" height="48" alt="CodeIgniter" />
+        </a>
+        <br>CodeIgniter
+        </td>  
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <a href="#reactjs">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"
+                height="48" alt="reactjs" />
+        </a>
+        <br>React JS
+    </td>
+      <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Vs Code" />
+      </a>
+      <br>VS Code
+    </td>
+      <td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+  </tr>
+</table>
+  <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZALALUDDIN)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZALALUDDIN&hide=contribs,prs)
-  -->
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZALALUDDIN&langs_count=10&layout=compact&theme=vue" alt="Zalal Uddin"/></br></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ZALALUDDIN)  
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZALALUDDIN&show_icons=true&locale=en&theme=vue-dark" alt="Zalal Uddin"/></br></p>
 
-![Profile views](https://gpvc.arturio.dev/ZALALUDDIN)  
+
+  <p align="center"><img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZALALUDDIN&theme=vue" /></p>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZALALUDDIN&" alt="Zalal Uddin" /></p>
