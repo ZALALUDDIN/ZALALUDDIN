@@ -119,4 +119,4 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, React, MySQL, H
 
 
   <p align="center"><img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZALALUDDIN&theme=vue" /></p>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZALALUDDIN&" alt="Zalal Uddin" /></p>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZALALUDDIN&" alt="Zalal Uddin Masum" /></p>
